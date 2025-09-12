@@ -8,7 +8,7 @@ Each project has its own dedicated repository with full code, documentation, and
 
 ## 🚀 Featured Projects
 
-### [Instacart Market Basket EDA](https://github.com/your-username/instacart-eda)
+### [Instacart Market Basket EDA](https://github.com/DigitalKnight74/instacart-eda)
 Exploratory data analysis of Instacart’s online grocery orders.  
 - Cleaned and analyzed millions of transactions.  
 - Identified shopping trends and reorder patterns.  
@@ -16,7 +16,7 @@ Exploratory data analysis of Instacart’s online grocery orders.
 
 ---
 
-### [Videogame Sales Forecast](https://github.com/your-username/videogame-sales-forecast)
+### [Videogame Sales Forecast](https://github.com/DigitalKnight74/Sprint-5---Video-Game-Sales-Forecast)
 Forecasting global video game sales using machine learning.  
 - Built and compared regression models.  
 - Optimized hyperparameters for best prediction accuracy.  
@@ -24,7 +24,7 @@ Forecasting global video game sales using machine learning.
 
 ---
 
-### [Megaline Plan Recommendation](https://github.com/your-username/megaline-plan-recommendation)
+### [Megaline Plan Recommendation](https://github.com/DigitalKnight74/megaline-_mobile_New_Plans)
 Classification model to recommend mobile plans.  
 - Compared Decision Trees, Random Forest, and Logistic Regression.  
 - Achieved high accuracy in plan recommendations.  
@@ -32,7 +32,7 @@ Classification model to recommend mobile plans.
 
 ---
 
-### [Real Estate Price Prediction](https://github.com/your-username/real-estate-price-prediction)
+### [Real Estate Price Prediction](https://github.com/DigitalKnight74/real-estate-price-prediction)
 Regression models to predict apartment prices.  
 - Preprocessed housing datasets with feature engineering.  
 - Compared Linear Regression vs. Random Forest.  
