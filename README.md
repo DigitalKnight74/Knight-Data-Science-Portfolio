@@ -32,14 +32,6 @@ Classification model to recommend mobile plans.
 
 ---
 
-### [Real Estate Price Prediction](https://github.com/DigitalKnight74/real-estate-price-prediction)
-Regression models to predict apartment prices.  
-- Preprocessed housing datasets with feature engineering.  
-- Compared Linear Regression vs. Random Forest.  
-- Tools: scikit-learn, pandas, matplotlib.
-
----
-
 ## 🛠 Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn  
