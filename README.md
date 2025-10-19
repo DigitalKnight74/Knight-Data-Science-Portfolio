@@ -32,6 +32,14 @@ Classification model to recommend mobile plans.
 
 ---
 
+### [Beta Bank Customer Churn](https://github.com/DigitalKnight74/Beta_Bank_Churn)
+Supervised Learning Project that predicts whether customers will leave soon.
+- Clean up data and split into training and validation sets
+- Acheived high F1 score and used AUC-ROC metric to compare for accuracy
+- Examined the balance of classes and trained model to account for any imbalance
+
+---
+
 ## 🛠 Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn  
