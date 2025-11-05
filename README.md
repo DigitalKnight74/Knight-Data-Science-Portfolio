@@ -10,33 +10,37 @@ Each project has its own dedicated repository with full code, documentation, and
 
 ### [Instacart Market Basket EDA](https://github.com/DigitalKnight74/instacart-eda)
 Exploratory data analysis of Instacart’s online grocery orders.  
-- Cleaned and analyzed millions of transactions.  
-- Identified shopping trends and reorder patterns.  
-- Tools: Python (pandas, matplotlib, seaborn).
+- Cleaned and transformed 3M+ grocery order records by handling missing and duplicate data, restoring distribution integrity for reliable analysis.  
+- Conducted exploratory data analysis (EDA) using Python (Pandas, Matplotlib, Seaborn) to uncover customer reordering trends and top product pairings.
+- Visualized shopper behavior through frequency and basket-size plots, revealing insights into peak order times and item affinities to inform marketing strategies.  
+- Tools: pandas, matplotlib, seaborn.
 
 ---
 
-### [Videogame Sales Forecast](https://github.com/DigitalKnight74/Sprint-5---Video-Game-Sales-Forecast)
+### [ICE Videogame Sales Forecast](https://github.com/DigitalKnight74/Sprint-5---Video-Game-Sales-Forecast)
 Forecasting global video game sales using machine learning.  
-- Built and compared regression models.  
-- Optimized hyperparameters for best prediction accuracy.  
-- Tools: Python, scikit-learn, matplotlib.
+- Cleaned and analyzed 16K+ global video-game records using Python (Pandas, NumPy, Matplotlib) to uncover platform, genre, and rating trends driving sales performance.  
+- Developed predictive insights identifying high-potential platforms (PS4, Xbox One) and profitable genres (Action, Shooter) based on user-review correlations and historical market shifts.  
+- Tested hypotheses comparing user ratings and genre performance using t-tests and correlation analysis, producing data-backed recommendations for 2017 advertising focus and inventory planning.
+- Tools: pandas, scikit-learn, matplotlib.
 
 ---
 
 ### [Megaline Plan Recommendation](https://github.com/DigitalKnight74/megaline-_mobile_New_Plans)
 Classification model to recommend mobile plans.  
-- Compared Decision Trees, Random Forest, and Logistic Regression.  
-- Achieved high accuracy in plan recommendations.  
+- Built and optimized classification models (Decision Tree, Random Forest, Logistic Regression) to predict subscriber plan adoption with >0.75 test accuracy threshold achieved.  
+- Engineered key behavioral features (minutes, messages, and data usage) from 3K+ records to identify patterns driving plan selection and customer migration behavior.
+- Validated model performance through hyperparameter tuning, train/validation/test splits, and sanity checks — delivering data-driven recommendations for plan marketing strategy.  
 - Tools: scikit-learn, pandas, numpy.
 
 ---
 
 ### [Beta Bank Customer Churn](https://github.com/DigitalKnight74/Beta_Bank_Churn)
 Supervised Learning Project that predicts whether customers will leave soon.
-- Clean up data and split into training and validation sets
-- Acheived high F1 score and used AUC-ROC metric to compare for accuracy
-- Examined the balance of classes and trained model to account for any imbalance
+- Developed and tuned classification models (Decision Tree, Random Forest, & Extra Trees Classifiers) to predict customer churn, achieving an F1 score > 0.59 on the test set.
+- Addressed class imbalance using Upsampling, Downsampling, and class weighting, improving recall and overall model stability across multiple validation splits.
+- Evaluated performance with F1 and ROC-AUC metrics, interpreting trade-offs to deliver actionable insights for customer retention and targeted marketing strategies.
+- Tools: scikit-learn, pandas, numpy.
 
 ---
 
