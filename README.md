@@ -51,6 +51,14 @@ A data-driven exploration project to identify the most profitable and lowest-ris
 - Implemented a 1,000-iteration bootstrapping simulation to quantify uncertainty, generate confidence intervals, and evaluate financial risk, ultimately identifying the optimal region for investment.
 - Tools: pandas, NumPy, scikit-learn, sklearn.metrics, bootstrapping, Jupyter Notebook
 
+###[ZYFRA Gold Recovery Prediction Prototype][https://github.com/DigitalKnight74/Gold_Recovery_Prediction_Model-Zyfra_Prototype-]
+End-to-end machine learning project predicting gold recovery rates from multi-stage industrial process data to support yield optimization and data-driven decision-making.
+- Prepared and analyzed time-indexed industrial datasets, addressing feature availability gaps and time-series alignment challenges
+- Built and evaluated regression models to forecast recovery performance and identify high-impact process drivers
+- Delivered actionable insights balancing model accuracy and interpretability for real-world operational use
+- Tools: pandas, NumPy, scikit-learn, Jupyter Notebook
+
+
 ## 🛠 Tools & Technologies
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn  
