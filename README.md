@@ -58,7 +58,7 @@ End-to-end machine learning project predicting gold recovery rates from multi-st
 - Delivered actionable insights balancing model accuracy and interpretability for real-world operational use
 - Tools: pandas, NumPy, scikit-learn, Jupyter Notebook
 
-### [AI JOb Market Analysis - SQL Project] (https://github.com/DigitalKnight74/ai_job_market_sql_project)
+###  [AI Job Market Analysis - SQL Project](https://github.com/DigitalKnight74/ai_job_market_sql_project)
 Analyzed a structured dataset of AI-related job postings to uncover hiring trends, skill demand, and compensation patterns across industries, geographies, and experience levels. Designed and implemented a normalized relational schema and developed analytical queries to support data-driven insights into the AI job market.
 - Designed and built a normalized relational database schema (fact + dimension tables) from raw staging data, enabling scalable and efficient analysis across multiple job attributes (industry, country, experience level, and skills).
 - Designed and built a normalized relational database schema (fact + dimension tables) from raw staging data, enabling scalable and efficient analysis across multiple job attributes (industry, country, experience level, and skills).
